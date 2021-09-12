@@ -11,3 +11,5 @@ Changes...
 `git commit -m'<message>'`
 
 `git reset --hard` - undo all changes since last commit.
+
+Github desktop app.
